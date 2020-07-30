@@ -7,24 +7,34 @@
     <mapping directory="$PROJECT_DIR$/.cache/govendor/github.com/json-iterator/go" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.cache/govendor/github.com/mattn/go-isatty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.cache/govendor/github.com/ugorji/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/GeertJohan/go.rice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/Unknwon/com" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/daaku/go.zipexe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/gin-contrib/sse" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/gin-gonic/gin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-flutter-desktop/hover" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-playground/locales" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-playground/universal-translator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-playground/validator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-redis/redis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/golang/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/google/go-github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/google/go-querystring" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/gpmgo/gopm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/hashicorp/go-version" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/jinzhu/gorm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/jinzhu/inflection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/kardianos/govendor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/kr/pretty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/kr/text" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/leodido/go-urn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/logrusorgru/aurora" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-isatty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/mongodb/mongo-go-driver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/otiai10/copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/pkg/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/tcnksm/go-latest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/ugorji/go" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/vmihailenco/msgpack" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/vmihailenco/tagparser" vcs="Git" />

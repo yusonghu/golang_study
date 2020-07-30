@@ -16,9 +16,6 @@ type User struct {
 	Utel  string `gorm:"column:U_tel"`
 }
 
-type Tcategory struct {
-}
-
 func main() {
 	//	gorm 连接数据库
 	db, err := gorm.Open("mysql", "admin:admin@tcp(127.0.0.1:3306)/supermanager")
@@ -43,4 +40,5 @@ func main() {
 	find := db.Table("t_user").Find(&users)
 	fmt.Println(find.RowsAffected)
 	fmt.Println(users)
+
 }

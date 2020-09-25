@@ -40,16 +40,18 @@ func stopTimer() {
 }
 
 func afterTimer() {
+	//它相当于NewTimer(d).C
 	times := time.After(3 * time.Second)
 	fmt.Printf("%T\n", times)
 	fmt.Println(time.Now())
 	t := <-times
 	fmt.Println(t)
-
+	//	golang中的Time格式化需要以”2006-01-02 15:04:05“的格式为准
+	fmt.Println(t.Format("2006-01-02 15:04:05"))
 }
 
 func init() {
 	//timerFun()
 	//stopTimer()
-	afterTimer()
+	//afterTimer()
 }
